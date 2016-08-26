@@ -1,0 +1,20 @@
+{
+  "name": "MyWordPress",
+  "homepage": "https://github.com/akshay12345vin/Small-Blog",
+  "authors": [
+    "akshay vinchurkar <akshay12345vin@gmail.com>"
+  ],
+  "description": "This is just small Blog Website So you Can Further Extend its functio",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

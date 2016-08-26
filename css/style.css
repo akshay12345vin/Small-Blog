@@ -1,0 +1,33 @@
+body{
+	margin: 0px;
+	padding: 0px;
+    padding-top: 10px;
+    background: url('../img/pat.png');
+}
+.blog{
+	width: auto;
+	height: auto;
+	margin: 0px auto 0px auto;
+	background: white;
+	padding: 10px;
+}	
+.post{
+	width: auto;
+	background: #607D8B;
+color: white;
+	padding: 20px;
+	padding-left: 60px;
+	padding-right: 60px;
+	margin-bottom: 30px;
+border-radius: 5px;
+}
+h1{
+	text-transform: capitalize;
+}
+.author{
+	text-align:right;
+background: #37474F;
+color: white;
+padding: 10px;
+border-radius: 5px;
+}
